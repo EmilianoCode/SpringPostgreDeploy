@@ -1,4 +1,4 @@
-package com.app.SpringSecjwtpostgredeploy.rest;
+package com.app.SpringSecjwtpostgredeploy.security.config.rest;
 
 import java.util.List;
 import java.util.Optional;

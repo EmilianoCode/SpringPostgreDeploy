@@ -1,4 +1,4 @@
-package com.app.SpringSecjwtpostgredeploy.rest;
+package com.app.SpringSecjwtpostgredeploy.security.config.rest;
 
 import com.app.SpringSecjwtpostgredeploy.domain.User;
 import com.app.SpringSecjwtpostgredeploy.repository.UserRepository;
